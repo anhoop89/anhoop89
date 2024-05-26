@@ -2,7 +2,7 @@
 
 I'm **Anh Ho**, a passionate developer with a strong foundation in Computer Science and extensive experience in various technologies. I recently graduated **Summa Cum Laude** from Portland State University, and I'm actively seeking opportunities in the IT field and software development.
 
-![Profile Views](https://komarev.com/ghpvc/?username=anhoop89&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=anhoop89&color=green)
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Animation" width="600"/>
@@ -58,6 +58,8 @@ I'm **Anh Ho**, a passionate developer with a strong foundation in Computer Scie
 
 - **Web-based Clicker Game:** A fun and interactive clicker game developed using HTML, CSS, and JavaScript.
 
+- ...
+
 ## 📈 Goals
 
 My short-term goal is to continue developing innovative projects and gaining deeper insights into advanced technologies. Long-term, I aspire to contribute to impactful software solutions in a collaborative and dynamic team environment.
@@ -89,7 +91,8 @@ Anh Ho
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhoop89&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
-<div align="center">
-  
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE1dXJpbW5mcDg4YTAzMXJ6bXk3MnowemszcXk3ZTl0b3NleGE3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Thank You" width="400"/>
+---
+
+<div align="center"> 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE1dXJpbW5mcDg4YTAzMXJ6bXk3MnowemszcXk3ZTl0b3NleGE3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Thank You" width="400"/>
 </div>
