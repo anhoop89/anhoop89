@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋
+# 🥷 Welcome to My GitHub! 🥷
 
 I'm **Anh Ho**, a passionate developer with a strong foundation in Computer Science and extensive experience in various technologies. I recently graduated **Summa Cum Laude** from Portland State University, and I'm actively seeking opportunities in the IT field and software development.
 
@@ -78,7 +78,7 @@ Best,
 Anh Ho
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anh.hotech/">
+  <a href="https://www.linkedin.com/in/anh-hotech/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:anh.hotech@gmail.com">
