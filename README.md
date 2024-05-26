@@ -89,8 +89,14 @@ Anh Ho
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anhoop89&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhoop89&layout=compact&theme=radical" alt="Top Languages">
+  <!-- Animated GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anhoop89&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
+  <br/>
+  <!-- Animated GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhoop89&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="400"/>
+  <br/>
+  <!-- Animated Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhoop89&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
 </div>
 
 ---
