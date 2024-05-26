@@ -5,7 +5,7 @@ I'm **Anh Ho**, a passionate developer with a strong foundation in Computer Scie
 ![Profile Views](https://komarev.com/ghpvc/?username=anhoop89&color=green)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Animation" width="600"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Animation" width="600" height="300"/>
 </div>
 
 ## 🚀 Tech Stack and Skills
